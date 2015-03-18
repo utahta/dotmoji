@@ -28,6 +28,7 @@ data = Dotmoji.map_data('テスト')
 ```bash
 $ dotmoji display -t テスト
 ```
+![dotmoji display](https://cloud.githubusercontent.com/assets/97572/6714926/629fa0fc-cdde-11e4-85a6-7484cf6f728c.gif)
 
 ## Contributing
 
