@@ -36,7 +36,7 @@ module Dotmoji
 
       text.annotate(img, 0,0,0,0, str) do
         self.fill = 'black'
-        self.gravity = Magick::SouthEastGravity
+        self.gravity = Magick::CenterGravity
         self.text_antialias = false
       end
       img
